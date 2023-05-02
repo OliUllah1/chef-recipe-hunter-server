@@ -1,0 +1,189 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "https://i.ibb.co/n0cBwPT/chef-with-thumb-up-white-background.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 50,
+      "likes": 1000,
+      "shortDescription": "John Smith is a classically trained chef with a passion for creating simple yet delicious Italian dishes.",
+      "recipes": [
+        {
+          "recipeName": "Spaghetti Carbonara",
+          "recipeImage": "https://example.com/recipe1.jpg"
+        },
+        {
+          "recipeName": "Margherita Pizza",
+          "recipeImage": "https://example.com/recipe2.jpg"
+        },
+        {
+          "recipeName": "Osso Buco",
+          "recipeImage": "https://example.com/recipe3.jpg"
+        },
+        {
+          "recipeName": "Risotto alla Milanese",
+          "recipeImage": "https://example.com/recipe4.jpg"
+        },
+        {
+          "recipeName": "Tiramisu",
+          "recipeImage": "https://example.com/recipe5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chefPicture": "https://i.ibb.co/n0cBwPT/chef-with-thumb-up-white-background.jpg",
+      "chefName": "Emily Johnson",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 40,
+      "likes": 800,
+      "shortDescription": "Emily Johnson is an Italian-American chef who combines traditional Italian flavors with modern techniques.",
+      "recipes": [
+        {
+          "recipeName": "Gnocchi alla Sorrentina",
+          "recipeImage": "https://example.com/recipe6.jpg"
+        },
+        {
+          "recipeName": "Fettuccine Alfredo",
+          "recipeImage": "https://example.com/recipe7.jpg"
+        },
+        {
+          "recipeName": "Eggplant Parmigiana",
+          "recipeImage": "https://example.com/recipe8.jpg"
+        },
+        {
+          "recipeName": "Bruschetta",
+          "recipeImage": "https://example.com/recipe9.jpg"
+        },
+        {
+          "recipeName": "Panna Cotta",
+          "recipeImage": "https://example.com/recipe10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chefPicture": "https://i.ibb.co/n0cBwPT/chef-with-thumb-up-white-background.jpg",
+      "chefName": "David Lee",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 60,
+      "likes": 1200,
+      "shortDescription": "David Lee is a Michelin-starred chef who specializes in creating innovative Italian dishes.",
+      "recipes": [
+        {
+          "recipeName": "Linguine with Clams",
+          "recipeImage": "https://example.com/recipe11.jpg"
+        },
+        {
+          "recipeName": "Ravioli alla Genovese",
+          "recipeImage": "https://example.com/recipe12.jpg"
+        },
+        {
+          "recipeName": "Chicken Cacciatore",
+          "recipeImage": "https://example.com/recipe13.jpg"
+        },
+        {
+          "recipeName": "Caprese Salad",
+          "recipeImage": "https://example.com/recipe14.jpg"
+        },
+        {
+          "recipeName": "Zabaione",
+          "recipeImage": "https://example.com/recipe15.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+        "chefPicture": "https://i.ibb.co/n0cBwPT/chef-with-thumb-up-white-background.jpg",
+        "chefName": "Sophia Rossi",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 30,
+        "likes": 600,
+        "shortDescription": "Sophia Rossi is a home cook and food blogger who specializes in Italian comfort food.",
+        "recipes": [
+          {
+            "recipeName": "Lasagna",
+            "recipeImage": "https://example.com/recipe16.jpg"
+          },
+          {
+            "recipeName": "Pesto Pasta",
+            "recipeImage": "https://example.com/recipe17.jpg"
+          },
+          {
+            "recipeName": "Minestrone Soup",
+            "recipeImage": "https://example.com/recipe18.jpg"
+          },
+          {
+            "recipeName": "Tuscan Chicken",
+            "recipeImage": "https://example.com/recipe19.jpg"
+          },
+          {
+            "recipeName": "Tiramisu",
+            "recipeImage": "https://example.com/recipe20.jpg"
+          }
+        ]
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://i.ibb.co/n0cBwPT/chef-with-thumb-up-white-background.jpg",
+        "chefName": "Mario Rossi",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 100,
+        "likes": 2000,
+        "shortDescription": "Mario Rossi is a third-generation Italian chef who specializes in traditional Italian cuisine.",
+        "recipes": [
+          {
+            "recipeName": "Pappardelle with Wild Boar Ragu",
+            "recipeImage": "https://example.com/recipe21.jpg"
+          },
+          {
+            "recipeName": "Orecchiette with Broccoli Rabe",
+            "recipeImage": "https://example.com/recipe22.jpg"
+          },
+          {
+            "recipeName": "Veal Saltimbocca",
+            "recipeImage": "https://example.com/recipe23.jpg"
+          },
+          {
+            "recipeName": "Capellini Pomodoro",
+            "recipeImage": "https://example.com/recipe24.jpg"
+          },
+          {
+            "recipeName": "Tiramisu",
+            "recipeImage": "https://example.com/recipe25.jpg"
+          }
+        ]
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://i.ibb.co/n0cBwPT/chef-with-thumb-up-white-background.jpg",
+        "chefName": "Jamie Oliver",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 100,
+        "likes": 2000,
+        "shortDescription": "Mario Rossi is a third-generation Italian chef who specializes in traditional Italian cuisine.",
+        "recipes": [
+          {
+            "recipeName": "Pappardelle with Wild Boar Ragu",
+            "recipeImage": "https://example.com/recipe21.jpg"
+          },
+          {
+            "recipeName": "Orecchiette with Broccoli Rabe",
+            "recipeImage": "https://example.com/recipe22.jpg"
+          },
+          {
+            "recipeName": "Veal Saltimbocca",
+            "recipeImage": "https://example.com/recipe23.jpg"
+          },
+          {
+            "recipeName": "Capellini Pomodoro",
+            "recipeImage": "https://example.com/recipe24.jpg"
+          },
+          {
+            "recipeName": "Tiramisu",
+            "recipeImage": "https://example.com/recipe25.jpg"
+          }
+        ]
+    }
+    ]
+  
