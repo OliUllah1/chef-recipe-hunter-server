@@ -12,8 +12,8 @@ app.get('/',(req,res)=>{
 })
 
 app.get('/:id',(req,res)=>{
-    const id = req.params.id
-    const chefInfo = allChefInfo.find(chef => chef.id == id)
+    const id = parseInt(req.params.id)
+    const chefInfo = allChefInfo.find(chef => chef.id === id)
     res.send(chefInfo)
 })
 app.listen(port, () => {
